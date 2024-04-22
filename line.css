@@ -1,0 +1,25 @@
+@charset "UTF-8";
+.main{
+    text-align: center;
+    margin: auto 500px;
+}
+
+h5{
+    color: gray;
+    margin-top: -5px;
+}
+.col{
+    color: blue;
+    list-style-type: disc;
+}
+.blueword{
+    text-align: left;
+}
+p1{
+    color:gray;
+    text-align: left;
+}
+/* div>p{
+    display: flex;
+
+} */
